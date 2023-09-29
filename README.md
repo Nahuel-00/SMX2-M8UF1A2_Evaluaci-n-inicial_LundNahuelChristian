@@ -22,11 +22,11 @@ Son aquellos programas o aplicaciones que nos permiten manipular informáticamen
 
 | Aplicaciones | Visto |
 |:----------:|:----------:|
-|Google Docs|
-|Google Slides|
-|Google Sheets|
-|Google Claendar|
-|Google Meets|
+|Google Docs|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/captura%201%20-%20copia.png
+|Google Slides|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/captura%201.png
+|Google Sheets|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/captura%201%20-%20copia%20(2).png
+|Google Claendar|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/Captura%20de%20pantalla%202023-09-29%20161953.png
+|Google Meets|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/Captura%20de%20pantalla%202023-09-29%20162032.png
 |...|...|
 
 
