@@ -16,17 +16,17 @@ Herramienta que los usuarios pueden utilizar accediendo a un servidor web a trav
 
 Son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
 
-5.  Herramientas de google
+5.  [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Heramientas de Google")
 
-[Link](https://www.google.com/intl/es-419/chrome/browser-tools/ "Heramientas de Google")
+
 
 | Aplicaciones | Visto |
 |:----------:|:----------:|
-|Google Docs|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/captura%201%20-%20copia.png
-|Google Slides|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/captura%201.png
-|Google Sheets|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/captura%201%20-%20copia%20(2).png
-|Google Claendar|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/Captura%20de%20pantalla%202023-09-29%20161953.png
-|Google Meets|https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/Captura%20de%20pantalla%202023-09-29%20162032.png
+|Google Docs|![Imagen](https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/captura%201%20-%20copia.png "titulo opcional")
+|Google Slides|![Imagen](https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/captura%201.png "titulo opcional")
+|Google Sheets|![Imagen](https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/captura%201%20-%20copia%20(2).png "titulo opcional")
+|Google Claendar|![Imagen](https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/Captura%20de%20pantalla%202023-09-29%20161953.png "titulo opcional")
+|Google Meets|![Imagen](https://github.com/Nahuel-00/SMX2-M8UF1A2_Evaluaci-n-inicial_LundNahuelChristian/blob/main/Captura%20de%20pantalla%202023-09-29%20162032.png "titulo opcional")
 |...|...|
 
 
